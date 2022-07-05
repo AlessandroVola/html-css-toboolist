@@ -18,11 +18,12 @@ header {
 .name {
     display: inline-block;
     vertical-align: middle;
-    font-size: 2.5rem;
+    font-size: 3.3rem;
 }
 
 .logo {
     vertical-align: middle;
+    width: 80px;
 }
 
 
@@ -32,32 +33,57 @@ body {
 
 /* add task/section */
 .container1 {
-    width: 800px;
-    height: 70px;
+    width: 1100px;
+    height: 50px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 30px;
+    margin-top: 50px;
     background-color: white;
-    border-radius: 2%;
+    border-radius: 3%;
 }
 
 #addtask {
     background-color: #47ADF1;
     color: white;
-    border-radius: 15%;
+    border-radius: 10%;
     width: 80px;
     height: 25px;
-    margin-top: 20px;
+    margin-top: 15px;
     margin-left: 40px;
 }
 
 #addsection {
     background-color: white;
-    border: 3px solid #F6F8F9;
-    color: #F6F8F9;
-    border-radius: 15%;
-    width: 90px;
+    border: 1px solid #999999;
+    color: #999999;
+    border-radius: 10%;
+    width: 100px;
     height: 25px;
-    margin-top: 20px;
+    margin-top: 15px;
     margin-left: 5px;
+}
+
+/* newtask/today/upcoming */
+.container2 {
+    width: 1100px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    background-color: white;
+    border-radius: 1%;
+}
+
+.main-ul {
+    list-style-type: none;
+    margin-left: 40px;
+    font-size: 1.8rem;
+    padding-top: 30px;
+}
+
+.second-ul {
+    list-style-type: none;
+    font-size: 1.2rem;
+    padding-top: 10px;
+    padding-bottom: 40px;
 }
