@@ -83,7 +83,64 @@ body {
 
 .second-ul {
     list-style-type: none;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     padding-top: 10px;
     padding-bottom: 40px;
+}
+
+.editorial {
+    /* background-color: #47ADF1;
+    border-radius: 10%;
+    font-size: 0.6rem;
+    color: #F6F8F9;
+    margin-left: 5px; */
+
+    /* height: 30px;
+    width: 150px; */
+    background: #47ADF1;
+    border-radius: 10%;
+    margin-left: 3px;
+    font-size: 0.8rem;
+    color: white;
+}
+
+.goals {
+    background-color: #7747f1;
+    border-radius: 10%;
+    font-size: 0.8rem;
+    color: #F6F8F9;
+    margin-left: 5px;
+}
+
+.recruiting {
+    background-color: #47f1b0;
+    border-radius: 10%;
+    font-size: 0.8rem;
+    color: #F6F8F9;
+    margin-left: 5px;
+
+}
+
+.mobile {
+    background-color: #f1aa47;
+    border-radius: 10%;
+    font-size: 0.8rem;
+    color: #F6F8F9;
+    margin-left: 5px;
+}
+
+.website {
+    background-color: #d747f1;
+    border-radius: 10%;
+    font-size: 0.8rem;
+    color: #F6F8F9;
+    margin-left: 5px;
+}
+
+.sales {
+    background-color: #aaf147;
+    border-radius: 10%;
+    font-size: 0.8rem;
+    color: #F6F8F9;
+    margin-left: 5px;
 }
