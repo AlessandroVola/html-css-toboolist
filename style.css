@@ -106,7 +106,8 @@ body {
     margin-left: 3px;
     font-size: 0.8rem;
     color: white;
-    border: 2px solid #47ADF1;
+    border: 5px solid #47ADF1;
+    text-align: center;
 }
 
 .goals {
@@ -115,7 +116,8 @@ body {
     font-size: 0.8rem;
     color: #F6F8F9;
     margin-left: 5px;
-    border: 3px solid #7747f1;
+    border: 5px solid #7747f1;
+    text-align: center;
 }
 
 .recruiting {
@@ -124,8 +126,8 @@ body {
     font-size: 0.8rem;
     color: #F6F8F9;
     margin-left: 5px;
-    border: 3px solid #47f1b0;
-
+    border: 5px solid #47f1b0;
+    text-align: center;
 }
 
 .mobile {
@@ -134,7 +136,8 @@ body {
     font-size: 0.8rem;
     color: #F6F8F9;
     margin-left: 5px;
-    border: 3px solid #f1aa47;
+    border: 5px solid #f1aa47;
+    text-align: center;
 }
 
 .website {
@@ -143,7 +146,8 @@ body {
     font-size: 0.8rem;
     color: #F6F8F9;
     margin-left: 5px;
-    border: 3px solid #d747f1;
+    border: 5px solid #d747f1;
+    text-align: center;
 }
 
 .sales {
@@ -152,6 +156,33 @@ body {
     font-size: 0.8rem;
     color: #F6F8F9;
     margin-left: 5px;
-    border: 3px solid #aaf147;
+    border: 5px solid #aaf147;
+    text-align: center;
 
 }
+
+
+/* .circle{
+    border-raadisu:50%;
+    padding:1px 3px;
+    font-size 0.8rem;
+    margin-right: 5px;
+    text-align:center;
+    border: 1px solid;
+}
+ */
+
+/* .check{
+    border-color: green; 
+}
+*/
+
+/* .check::after{
+    content:'\2713';
+    color: green;
+    }
+ */
+
+/* c.ross::after{
+    content:'\
+    
